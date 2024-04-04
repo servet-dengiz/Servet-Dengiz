@@ -1,9 +1,11 @@
 <h1 align="center">Merhaba, ben Servet</h1>
 <h3 align="center">Full Stack Developer</h3>
-- 🔭 Ne üzerinde çalışıyorum? **React ile proje geliştirmeleri yapıyorum.**
-- 🌱 Ne öğreniyorum? **Web ve Mobil Teknolojileri üzerinde öğrenimimi devam ettiriyorum.**
-
-- 📫 Bana ulaşman için: ** servetdngz@gmail.com**
+<br>
+- 🔭 Ne üzerinde çalışıyorum? React ile proje geliştirmeleri yapıyorum.
+<br>
+- 🌱 Ne öğreniyorum? Web ve Mobil Teknolojileri üzerinde öğrenimimi devam ettiriyorum.
+<br>
+- 📫 Bana ulaşman için: servetdngz@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/servetdengiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/servet-dengiz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
